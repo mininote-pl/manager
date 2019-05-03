@@ -1,0 +1,2 @@
+# manager
+Widok panelu zarządzania
